@@ -1,56 +1,48 @@
-<h1 align="center">Olá, eu sou o Fellipe 👋</h1>
+<h1 align="center">Hi there, I'm Fellipe 👋</h1>
 
 <p align="center">
-  Desenvolvedor focado em <strong>C# / .NET</strong> com experiência prática em <strong>APIs RESTful</strong> e <strong>projetos de backend</strong>.
+  Backend developer focused on <strong>C# / .NET</strong> with hands-on experience in <strong>RESTful APIs</strong> and backend architecture.
 </p>
 
 ---
 
-### 🧭 Sobre mim
+### 🧭 About Me
 
-- 💻 Atualmente estudando C# com foco em back-end e arquitetura de APIs
-- 🚀 Meu objetivo é me tornar desenvolvedor pleno até o final de 2025
-- 🛠️ Experiência com Blazor, ASP.NET Core, Entity Framework, e SQLite
-- 📚 Faço projetos práticos para consolidar o aprendizado
+- 💻 Currently studying C# with a strong focus on backend development and API architecture  
+- 🚀 My goal is to become a mid-level .NET developer by the end of 2025  
+- 🛠️ Practical experience with Blazor, ASP.NET Core, Entity Framework, and SQLite  
+- 📚 I build real-world projects to strengthen my learning  
 
 ---
 
-### ⚙️ Tecnologias que uso
+### ⚙️ Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-5C2D91?style=flat&logo=blazor)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📂 Projetos em destaque
+### 📈 Currently
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [ToDoApi](https://github.com/Garcia012/ToDoApi) | API REST para gerenciar tarefas. | ASP.NET Core, C#, Postman |
-| [Em construção...]() | Novos projetos sendo desenvolvidos. | Em breve |
-
----
-
-### 📈 Status
-
-- 💡 Sempre aprendendo algo novo em .NET e arquitetura de aplicações
-- 🔎 Estudando boas práticas e design patterns
-- 🧠 Evoluindo com foco, prática e consistência
+- 💡 Continuously learning about .NET and clean architecture  
+- 🔍 Studying design patterns and best practices  
+- 🧠 Focused on growth through consistency and hands-on development  
 
 ---
 
-### 📬 Contato
+### 📬 Contact
 
-- Email: seuemail@exemplo.com  
-- LinkedIn: [linkedin.com/in/seunome](https://www.linkedin.com/in/seunome)
+- 📧 Email: fellipemellogarcia@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/fellipegarcia012](https://www.linkedin.com/in/fellipegarcia012)
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! 🚀
+  Thanks for stopping by! 🚀
 </p>
 
