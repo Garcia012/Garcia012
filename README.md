@@ -39,6 +39,9 @@ I'm passionate about software development and continuously seek to grow my exper
 - ✉️ Email: [fellipemellogarcia@gmail.com](mailto:fellipemellogarcia@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/fellipegarcia012](https://www.linkedin.com/in/fellipegarcia012/)
 
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia012&layout=compact&langs_count=6&theme=github_dark&hide=jupyter%20notebook)
 ---
 
 ### 🛠️ Tech Stack
